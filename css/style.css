@@ -14,10 +14,10 @@ header {
 #container {
     border-style: none;
     border-radius: 5px;
-    box-shadow: 1px 1px 4px rgba(0, 0, 0, 0.263);
+    box-shadow: 1px 1px 9px rgba(0, 0, 0, 0.263);
     margin: 30px auto;
     padding: 25px;
-    height: 400px;
+    height: 500px;
     width: 90%;
 }
 
